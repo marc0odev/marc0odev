@@ -253,8 +253,8 @@ Fora do Back-End, já coloquei a mão em **apps mobile** (Flutter e React Native
 <div align="center">
 
 <a href="https://github.com/marc0odev"><img src="https://img.shields.io/badge/GITHUB-marc0odev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0614" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-Marco%20Fonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0614" alt="LinkedIn"/></a>
-<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--MAIL-Fale%20comigo-ff2a6d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0614" alt="E-mail"/></a>
+<a href="https://www.linkedin.com/in/marco-antonio-ferreira-fonseca-105b16346/"><img src="https://img.shields.io/badge/LINKEDIN-Marco%20Fonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0614" alt="LinkedIn"/></a>
+<a href="marcoffonseca0804@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-Fale%20comigo-ff2a6d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0614" alt="E-mail"/></a>
 
 <br/><br/>
 
