@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="TECH_STACK.dll" shape-rendering="crispEdges">
+<title>TECH_STACK.dll</title>
+<defs><linearGradient id="hg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2a6d"/><stop offset="1" stop-color="#7b2ff7"/></linearGradient><pattern id="sc" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".3"/></pattern></defs>
+<rect x="0" y="0" width="1200" height="56" fill="#0a0614"/>
+<rect x="0" y="0" width="1200" height="40" fill="url(#hg)"/>
+<rect x="0" y="40" width="1200" height="4" fill="#ff2a6d"/><rect x="0" y="48" width="1200" height="4" fill="#ff2a6d" fill-opacity=".6"/>
+<rect x="12" y="10" width="20" height="20" fill="#0a0614"/><rect x="17" y="15" width="10" height="10" fill="#ff2a6d"><animate attributeName="opacity" values="1;.3;1" dur="1.4s" repeatCount="indefinite"/></rect>
+<text x="46" y="28" font-family="'Courier New', Courier, 'DejaVu Sans Mono', monospace" font-size="20" font-weight="bold" fill="#fff" letter-spacing="2">TECH_STACK.dll</text>
+<rect x="1100" y="10" width="20" height="20" fill="#f9f002"/><rect x="1100" y="10" width="20" height="4" fill="#fff" fill-opacity=".35"/>
+<rect x="1130" y="10" width="20" height="20" fill="#05ffa1"/><rect x="1130" y="10" width="20" height="4" fill="#fff" fill-opacity=".35"/>
+<rect x="1160" y="10" width="20" height="20" fill="#ff2a6d"/><rect x="1160" y="10" width="20" height="4" fill="#fff" fill-opacity=".35"/>
+<rect width="1200" height="56" fill="url(#sc)"/>
+<rect x="-120" y="0" width="120" height="40" fill="#fff" fill-opacity=".12"><animate attributeName="x" values="-120;1200" dur="5s" repeatCount="indefinite"/></rect>
+</svg>
